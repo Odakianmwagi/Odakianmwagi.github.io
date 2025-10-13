@@ -1,6 +1,6 @@
 ---
 title: "Lab Challenges"
-layout: lab-challenges
+layout: tags
 permalink: /lab-challenges/
 author_profile: true
 ---
