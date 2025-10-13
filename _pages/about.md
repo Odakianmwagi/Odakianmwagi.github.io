@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I’m Odak Ian Mwagi, an IT technician, educator, and network security enthusiast based in Kisumu, Kenya. I’m passionate about how technology can improve learning, strengthen institutions, and empower communities.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I hold a Bachelor of Science in Information Technology from the Cooperative University of Kenya and currently serve as a Teach For Kenya Fellow at Ezra Gumbe Comprehensive School. There, I lead a Code Club that introduces learners to Scratch, Micro:bit, Raspberry Pi Pico, and other tools that build creativity and problem-solving skills through coding.
+
+My professional experience spans system administration, hardware and software support, cloud computing, and ICT integration in education. I also have a growing interest in network security, ensuring systems and users remain safe in today’s connected world.
+
+Beyond the classroom, I enjoy mentoring young people, supporting ICT projects in schools, and experimenting with open-source tools. My goal is to continue building digital skills among learners and educators while advancing secure, reliable tech solutions for institutions.
