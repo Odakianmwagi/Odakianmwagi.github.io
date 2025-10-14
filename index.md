@@ -122,3 +122,10 @@ Assistant County Commissioner, AOII Nyanza Region
 ICT Authority Manager, Kisumu County  
 📧 [seif.ouma@ict.go.ke](mailto:seif.ouma@ict.go.ke) | 📞 +254 702 536 641
 
+---
+
+## 📄 Download My Resume
+
+You can download my full resume in PDF format using the link below:
+
+[⬇️ Download Resume (PDF)](/assets/ODAK IAN MWAGI cv revamp.pdf)
