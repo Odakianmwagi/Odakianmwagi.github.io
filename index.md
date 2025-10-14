@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 ---
-  # ODAK IAN MWAGI
+  
 
 **Location:** Kisumu, Kenya  
 **Phone:** +254 792 009 383  
