@@ -58,8 +58,8 @@ Automate IP address assignment and name resolution services for a local network 
 - Role of DNS in network communication.  
 
 **Attachments:**  
-📁 [Download Packet Tracer File (.pkt)](/assets/images/packet tracer 2.pkt)  
-🖼️ ![DHCP DNS Lab Screenshot](/assets/images/week 4.png)
+📁 [Download Packet Tracer File (.pkt)](/assets/images/week 4.pkt)  
+🖼️ ![DHCP DNS Lab Screenshot](/assets/images/packet tracer 2.jpg)
 
 ---
 
