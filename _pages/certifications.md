@@ -21,10 +21,8 @@ Earned the **Black Belt Certification** under the One Million Teachers program, 
 Enhanced my teaching, mentorship, and leadership skills to better support learner growth and digital literacy initiatives.  
 
 **📷 Certificate Image:**  
-![One Million Teachers Black Belt Certificate](/assets/images/1MT_Black_Belt.jpg)
+![One Million Teachers Black Belt Certificate](/assets/images/onemillion.jpg)
 
-**📄 Download Certificate:**  
-[Download PDF](/assets/docs/1MT_Black_Belt.pdf)
 
 ---
 
@@ -38,10 +36,8 @@ Completed an introductory course in cybersecurity covering network threats, onli
 Gained foundational knowledge in identifying, preventing, and responding to cybersecurity threats in real-world environments.  
 
 **📷 Certificate Image:**  
-![Introduction to Cybersecurity Certificate](/assets/images/Intro_to_Cybersecurity.jpg)
+![Introduction to Cybersecurity Certificate](/assets/images/intro_to_cyber.jpg)
 
-**📄 Download Certificate:**  
-[Download PDF](/assets/docs/Intro_to_Cybersecurity.pdf)
 
 ---
 
@@ -55,10 +51,7 @@ Earned certification for completing the **Introduction to Micro:bit** program, l
 Able to guide students in creating interactive projects using sensors, LEDs, and coding blocks.  
 
 **📷 Certificate Image:**  
-![Introduction to Micro:bit Certificate](/assets/images/Intro_to_Microbit.jpg)
-
-**📄 Download Certificate:**  
-[Download PDF](/assets/docs/Intro_to_Microbit.pdf)
+![Introduction to Micro:bit Certificate](/assets/images/microbit.jpg)
 
 ---
 
@@ -72,10 +65,8 @@ Completed a foundational course in **Data Analytics**, focusing on data collecti
 Acquired practical data analysis skills applicable to IT systems management and decision-making.  
 
 **📷 Certificate Image:**  
-![Data Analytics Essentials Certificate](/assets/images/Data_Analytics_Essentials.jpg)
+![Data Analytics Essentials Certificate](/assets/images/data.jpg)
 
-**📄 Download Certificate:**  
-[Download PDF](/assets/docs/Data_Analytics_Essentials.pdf)
 
 ---
 
@@ -89,9 +80,6 @@ Completed a **Web Development** course focusing on HTML, CSS, Python, Django Fra
 Developed full-stack web development skills and practical experience in building and deploying functional websites.  
 
 **📷 Certificate Image:**  
-![Web Development Certificate](/assets/images/Web_Development.jpg)
-
-**📄 Download Certificate:**  
-[Download PDF](/assets/docs/Web_Development.pdf)
+![Web Development Certificate](/assets/images/web.jpg)
 
 ---
