@@ -59,7 +59,7 @@ Automate IP address assignment and name resolution services for a local network 
 
 **Attachments:**  
 📁 [Download Packet Tracer File (.pkt)](/assets/images/week 4.pkt)  
-🖼️ ![DHCP DNS Lab Screenshot](/assets/images/packet tracer 2.jpg)
+🖼️ ![DHCP DNS Lab Screenshot](/assets/images/packet tracer 2.pkt.jpg)
 
 ---
 
