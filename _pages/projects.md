@@ -8,10 +8,36 @@ author_profile: true
 # 💻 My Projects
 
 Below are some of the cybersecurity and networking modules I have completed, highlighting my growing expertise in web security, network analysis, and IT systems.
+---
+## 👩🏾‍💻 Project 1: Code Club Activities – Ezra Gumbe Comprehensive School
+
+**Description:**  
+Leading a **Code Club** at Ezra Gumbe Comprehensive School to equip learners aged 9–16 with foundational digital and programming skills. This initiative promotes problem-solving, creativity, and early exposure to technology.
+
+**Activities with Learners:**  
+- Introducing learners to **Scratch programming** for storytelling and game design  
+- Teaching **basic computing skills** such as typing, file management, and internet safety  
+- Working with **Micro:bit** and **Raspberry Pi Pico** to teach basic electronics and coding  
+- Group projects that encourage collaboration and innovation  
+- Guiding students to build small, practical solutions for their community using tech  
+
+**Tools & Technologies:**  
+- Scratch  
+- Micro:bit  
+- Raspberry Pi Pico  
+- Basic computer lab tools and resources  
+
+**Outcome:**  
+Empowered learners with digital skills and sparked early interest in STEM fields. Built a growing community of young innovators ready to explore technology beyond the classroom.
+
+[🔗 View Post on LinkedIn](https://www.linkedin.com/posts/ian-mwagi-514284238_robotics-raspberrypipico-stemeducation-activity-7360547854081310720-8C1-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4)
+[🔗 View Post on LinkedIn](https://www.linkedin.com/posts/ian-mwagi-514284238_education-codingwithkids-futureleaders-activity-7242203447058436097-DC4c?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4)
+[🔗 View Post on LinkedIn](https://www.linkedin.com/posts/ian-mwagi-514284238_i-had-an-exciting-session-with-my-learners-activity-7237305049725452289-J7Ad?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4)
+
 
 ---
 
-## 🌐 Project 1: Web Requests (Hack The Box)
+## 🌐 Project 2: Web Requests (Hack The Box)
 
 **Description:**  
 Completed the **Web Requests** module on Hack The Box — a great refresher on the fundamentals that power modern web applications and web security testing.
@@ -36,7 +62,7 @@ Built a strong foundation in web communication protocols and security principles
 
 ---
 
-## 🧠 Project 2: DNS in Detail (Hack The Box)
+## 🧠 Project 3: DNS in Detail (Hack The Box)
 
 **Description:**  
 Completed the **DNS in Detail** module, exploring how the Domain Name System works and its critical role in both normal web operations and security analysis.
@@ -59,7 +85,7 @@ Improved understanding of DNS infrastructure, helping in both defending and iden
 
 ---
 
-## 🔍 Project 3: Introduction to Network Traffic Analysis
+## 🔍 Project 4: Introduction to Network Traffic Analysis
 
 **Description:**  
 Successfully completed the **Introduction to Network Traffic Analysis** course, gaining practical experience in capturing, analyzing, and interpreting network traffic.
