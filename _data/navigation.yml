@@ -1,6 +1,6 @@
 main:
   - title: "Resume."
-    url: /posts/
+    url: /Resume/
   - title: "Lab Challenges"
     url: /lab-challenges/
   - title: "Projects"
