@@ -32,14 +32,14 @@ Completed the **Web Requests** module on Hack The Box — a great refresher on t
 **Outcome:**  
 Built a strong foundation in web communication protocols and security principles before moving on to advanced proxy tools like Burp Suite and OWASP ZAP.  
 
-**Tags:** #CyberSecurity #WebSecurity #InfoSec #HackTheBox #Learning
+🔗 [View Post on LinkedIn](https://www.linkedin.com/in/ian-mwagi-514284238)
 
 ---
 
 ## 🧠 Project 2: DNS in Detail (Hack The Box)
 
 **Description:**  
-Completed the **DNS in Detail** module, exploring how Domain Name System works and its critical role in both normal web operations and security analysis.
+Completed the **DNS in Detail** module, exploring how the Domain Name System works and its critical role in both normal web operations and security analysis.
 
 **Key Learnings:**  
 - How DNS resolution works step-by-step  
@@ -55,7 +55,7 @@ Completed the **DNS in Detail** module, exploring how Domain Name System works a
 **Outcome:**  
 Improved understanding of DNS infrastructure, helping in both defending and identifying DNS-based attacks.  
 
-**Tags:** #Networking #CyberSecurity #DNS #HackTheBox #ITSkills
+🔗 [View Post on LinkedIn](https://www.linkedin.com/in/ian-mwagi-514284238)
 
 ---
 
@@ -78,10 +78,9 @@ Successfully completed the **Introduction to Network Traffic Analysis** course, 
 **Outcome:**  
 Enhanced ability to analyze real-world network behavior, strengthening my cybersecurity and IT troubleshooting skills.  
 
-**Tags:** #Networking #CyberSecurity #ProfessionalDevelopment #IT #NetworkAnalysis
+🔗 [View Post on LinkedIn](https://www.linkedin.com/in/ian-mwagi-514284238)
 
 ---
 
 ### 📂 More Learning & Projects
 You can explore more of my cybersecurity and IT projects on my [Hack The Box Profile](https://app.hackthebox.com/) or [GitHub](https://github.com/yourusername).
-
