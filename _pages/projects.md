@@ -32,7 +32,7 @@ Completed the **Web Requests** module on Hack The Box — a great refresher on t
 **Outcome:**  
 Built a strong foundation in web communication protocols and security principles before moving on to advanced proxy tools like Burp Suite and OWASP ZAP.  
 
-🔗 [View Post on LinkedIn](https://www.linkedin.com/in/ian-mwagi-514284238)
+🔗 [View Post on LinkedIn](https://www.linkedin.com/posts/ian-mwagi-514284238_completed-web-requests-activity-7380997783081807872-mmXx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4)
 
 ---
 
@@ -55,7 +55,7 @@ Completed the **DNS in Detail** module, exploring how the Domain Name System wor
 **Outcome:**  
 Improved understanding of DNS infrastructure, helping in both defending and identifying DNS-based attacks.  
 
-🔗 [View Post on LinkedIn](https://www.linkedin.com/in/ian-mwagi-514284238)
+🔗 [View Post on LinkedIn](https://www.linkedin.com/posts/ian-mwagi-514284238_dns-in-detail-activity-7380861972235403264-SSJ_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4)
 
 ---
 
@@ -78,7 +78,7 @@ Successfully completed the **Introduction to Network Traffic Analysis** course, 
 **Outcome:**  
 Enhanced ability to analyze real-world network behavior, strengthening my cybersecurity and IT troubleshooting skills.  
 
-🔗 [View Post on LinkedIn](https://www.linkedin.com/in/ian-mwagi-514284238)
+🔗 [View Post on LinkedIn](https://www.linkedin.com/posts/ian-mwagi-514284238_completed-intro-to-network-traffic-analysis-activity-7378790583408029697-IB94?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4)
 
 ---
 
