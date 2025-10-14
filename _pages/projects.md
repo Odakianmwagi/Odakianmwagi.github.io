@@ -31,7 +31,10 @@ Leading a **Code Club** at Ezra Gumbe Comprehensive School to equip learners age
 Empowered learners with digital skills and sparked early interest in STEM fields. Built a growing community of young innovators ready to explore technology beyond the classroom.
 
 [🔗 View Post on LinkedIn](https://www.linkedin.com/posts/ian-mwagi-514284238_robotics-raspberrypipico-stemeducation-activity-7360547854081310720-8C1-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4)
+
+
 [🔗 View Post on LinkedIn](https://www.linkedin.com/posts/ian-mwagi-514284238_education-codingwithkids-futureleaders-activity-7242203447058436097-DC4c?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4)
+
 [🔗 View Post on LinkedIn](https://www.linkedin.com/posts/ian-mwagi-514284238_i-had-an-exciting-session-with-my-learners-activity-7237305049725452289-J7Ad?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4)
 
 
