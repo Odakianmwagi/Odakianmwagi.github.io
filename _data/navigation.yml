@@ -1,6 +1,8 @@
 main:
   - title: "Resume"
     url: /Resume/
+  - title: "Certifications"
+    url: /certifications/
   - title: "Lab Challenges"
     url: /lab-challenges/
   - title: "Projects"
