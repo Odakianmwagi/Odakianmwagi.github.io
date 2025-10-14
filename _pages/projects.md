@@ -18,14 +18,14 @@ Click on each title to view the full details.
 ![Web Requests](assets/images/web-requests.png)
 
 **Description:**  
-Completed the **Web Requests** module on Hack The Box — a great refresher on the fundamentals that power modern web applications and web security testing.
+Completed the **Web Requests** module on Hack The Box — a great refresher on the fundamentals that power modern web applications and web security testing.  
 
 **Key Learnings:**  
-1. How HTTP(S) works and why headers matter  
-2. Practical use of common methods (GET, POST, PUT, PATCH, DELETE)  
-3. Reading and interpreting response codes  
-4. Interacting with APIs and automated testing with curl  
-5. When to use browser DevTools vs. proxy tools  
+- How HTTP(S) works and why headers matter  
+- Practical use of common methods (GET, POST, PUT, PATCH, DELETE)  
+- Reading and interpreting response codes  
+- Interacting with APIs and automated testing with curl  
+- When to use browser DevTools vs. proxy tools  
 
 **Tools & Techniques:**  
 - Browser DevTools  
@@ -36,7 +36,8 @@ Completed the **Web Requests** module on Hack The Box — a great refresher on t
 **Outcome:**  
 Built a strong foundation in web communication protocols and web security principles before advancing to proxy tools like Burp Suite and OWASP ZAP.  
 
-**Tags:** #CyberSecurity #WebSecurity #InfoSec #HackTheBox #Learning  
+**Tags:**  
+#CyberSecurity #WebSecurity #InfoSec #HackTheBox #Learning  
 
 🔗 [View Post on LinkedIn](https://www.linkedin.com/in/ian-mwagi-514284238)
 
@@ -50,7 +51,7 @@ Built a strong foundation in web communication protocols and web security princi
 ![DNS in Detail](assets/images/dns-in-detail.png)
 
 **Description:**  
-Completed the **DNS in Detail** module on Hack The Box, exploring how the Domain Name System operates and its importance in both normal web operations and security analysis.
+Completed the **DNS in Detail** module on Hack The Box, exploring how the Domain Name System operates and its importance in both normal web operations and security analysis.  
 
 **Key Learnings:**  
 - How DNS resolution works step-by-step  
@@ -66,7 +67,8 @@ Completed the **DNS in Detail** module on Hack The Box, exploring how the Domain
 **Outcome:**  
 Strengthened my understanding of DNS infrastructure, aiding in both defending and detecting DNS-based attacks.  
 
-**Tags:** #Networking #CyberSecurity #DNS #HackTheBox #ITSkills  
+**Tags:**  
+#Networking #CyberSecurity #DNS #HackTheBox #ITSkills  
 
 🔗 [View Post on LinkedIn](https://www.linkedin.com/in/ian-mwagi-514284238)
 
@@ -80,7 +82,7 @@ Strengthened my understanding of DNS infrastructure, aiding in both defending an
 ![Network Traffic Analysis](assets/images/network-traffic-analysis.png)
 
 **Description:**  
-Successfully completed the **Introduction to Network Traffic Analysis** course, gaining hands-on experience in capturing, analyzing, and interpreting network traffic.
+Successfully completed the **Introduction to Network Traffic Analysis** course, gaining hands-on experience in capturing, analyzing, and interpreting network traffic.  
 
 **Key Learnings:**  
 - Understanding how network traffic flows  
@@ -96,7 +98,8 @@ Successfully completed the **Introduction to Network Traffic Analysis** course, 
 **Outcome:**  
 Enhanced my ability to analyze real-world network behavior, strengthening my cybersecurity and IT troubleshooting skills.  
 
-**Tags:** #Networking #CyberSecurity #ProfessionalDevelopment #IT #NetworkAnalysis  
+**Tags:**  
+#Networking #CyberSecurity #ProfessionalDevelopment #IT #NetworkAnalysis  
 
 🔗 [View Post on LinkedIn](https://www.linkedin.com/in/ian-mwagi-514284238)
 
