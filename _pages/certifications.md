@@ -36,7 +36,7 @@ Completed an introductory course in cybersecurity covering network threats, onli
 Gained foundational knowledge in identifying, preventing, and responding to cybersecurity threats in real-world environments.  
 
 **📷 Certificate Image:**  
-![Introduction to Cybersecurity Certificate](/assets/images/intro_to_cyber.jpg)
+![Introduction to Cybersecurity Certificate](/assets/images/intro to cyber.jpg)
 
 
 ---
