@@ -1,5 +1,7 @@
+title: "Resume"
 layout: single
-# author_profile: true
+permalink: /Resume/
+author_profile: true
 ---
   
 
