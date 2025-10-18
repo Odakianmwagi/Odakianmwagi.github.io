@@ -56,12 +56,12 @@ All client devices (Laptop, Tablet, Smartphone, Wireless Hosts) were successfull
 ---
 
 ## 5. Screenshot
-![WLAN Configuration Screenshot](/assets/images/week4as2.jpg)  
+🖼️ ![WLAN Configuration Screenshot](/assets/images/week4as2.jpg) 
 
 ---
 
 ## 6. Packet Tracer File
-[Download Packet Tracer File](/assets/images/odakianWC.pka)  
+📁 ![Download Packet Tracer File](/assets/images/odakianWC.pka)
 
 ---
 
