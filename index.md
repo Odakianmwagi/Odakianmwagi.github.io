@@ -161,4 +161,4 @@ ICT Authority Manager, Kisumu County
 
 You can download my full resume in PDF format using the link below:
 
-[⬇️ Download Resume (PDF)](/assets/images/ODAK IAN MWAGI cv revamp.pdf)
+[⬇️ Download Resume (PDF)](/assets/images/ODAK IAN MWAGI cv .pdf) 
