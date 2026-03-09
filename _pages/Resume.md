@@ -53,15 +53,16 @@ Key Outcomes:
 ---
 **Experience Ai trainer(Consultant), Futures Infinite.**
 **WESTERN REGION, KENYA | December 2025 to February 2026.**
-•	Facilitated Experience AI training programs for teachers  across schools in the Western Region, introducing practical applications of Artificial Intelligence in education.
-•	Delivered structured training sessions on AI fundamentals, responsible AI use, and emerging digital technologies to improve digital literacy among participants.
-•	Guided educators on how to integrate AI tools into classroom learning, supporting innovation in teaching and learning methods.
-•	Provided hands-on demonstrations of AI-powered tools and platforms to help participants understand real-world technology applications.
-•	Supported training coordination, participant engagement, and technical facilitation during regional workshops.
+-Facilitated Experience AI training programs for teachers  across schools in the Western Region, introducing practical applications of Artificial Intelligence in education.
+-Delivered structured training sessions on AI fundamentals, responsible AI use, and emerging digital technologies to improve digital literacy among participants.
+-Guided educators on how to integrate AI tools into classroom learning, supporting innovation in teaching and learning methods.
+-Provided hands-on demonstrations of AI-powered tools and platforms to help participants understand real-world technology applications.
+-Supported training coordination, participant engagement, and technical facilitation during regional workshops.
+
 **Key Outcomes:**
-•	Successfully trained multiple educators and learners on Experience AI concepts and tools, increasing awareness and adoption of AI in schools.
-•	Strengthened digital literacy and emerging technology knowledge among participants in the Western Kenya education ecosystem.
-•	Contributed to the expansion of AI education initiatives aimed at preparing learners for future digital careers.
+-Successfully trained multiple educators and learners on Experience AI concepts and tools, increasing awareness and adoption of AI in schools.
+-	Strengthened digital literacy and emerging technology knowledge among participants in the Western Kenya education ecosystem.
+-Contributed to the expansion of AI education initiatives aimed at preparing learners for future digital careers.
 
 ---
 
