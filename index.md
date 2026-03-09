@@ -147,9 +147,9 @@ _Oriwo Boys High School, Homabay County | 2018_
 Leadership and Development Coach, Teach For Kenya  
 📧 [eila@teachforkenya.org](mailto:eila@teachforkenya.org) | 📞 +254 713 213 531  
 
-**2. Joram Wachira Gichathi**  
-Assistant County Commissioner, AOII Nyanza Region  
-📧 [gichathijoram@gmail.com](mailto:gichathijoram@gmail.com) | 📞 +254 705 109 077  
+**2.	Stephen Odhiambo Okuta. **  
+Senior Teacher, Ezra Gumbe Comprehensive School.  
+📧 [okutaodhiambo@gmail.com ](mailto:okutaodhiambo@gmail.com ) | 📞 +254 734 270709. 
 
 **3. Seif Ouma Jowi**  
 ICT Authority Manager, Kisumu County  
