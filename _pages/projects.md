@@ -7,6 +7,52 @@ author_profile: true
 
 # 💻 My Projects
 
+# [ODAK IAN MWAGI] 👋
+> **AI Trainer & Consultant** | Bridging the Gap in Digital Literacy
+
+---
+
+## 👨‍🏫 Professional Experience
+
+### **AI Trainer (Consultant)** | Futures Infinite  
+**Western Region, Kenya** | *December 2025 – February 2026*
+
+I facilitated the **Experience AI** training program (a collaboration between Google DeepMind and the Raspberry Pi Foundation) across schools in Western Kenya. My role was to empower educators with the tools and knowledge to bring Artificial Intelligence into the modern classroom.
+
+#### **Key Responsibilities:**
+* **Facilitation:** Led structured training for teachers on AI fundamentals and responsible AI use.
+* **Innovation:** Guided educators on integrating AI tools into teaching methods to improve student engagement.
+* **Technical Leadership:** Provided hands-on demonstrations of AI-powered platforms and emerging digital technologies.
+* **Coordination:** Managed participant engagement and technical facilitation for regional workshops.
+
+#### **🏆 Key Outcomes:**
+* **Scaled Impact:** Successfully trained multiple educators, directly increasing AI adoption in regional schools.
+* **Digital Literacy:** Measurably strengthened the tech ecosystem within the Western Kenya education sector.
+* **Future Readiness:** Contributed to the expansion of initiatives preparing Kenyan learners for global digital careers.
+
+---
+
+## 🔗 My Journey on LinkedIn
+I've shared insights and updates from my time training in Vihiga and the wider Western Region. You can read more here:
+
+* 🚀 [**Training the Trainers:** Empowering Vihiga's Educators]((https://www.linkedin.com/feed/update/urn:li:activity:7424517251376218112/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4))
+* 💡 [**AI in the Classroom:** Practical Applications & Demos](h[ttps://www.linkedin.com/posts/your-link-2](https://www.linkedin.com/feed/update/urn:li:activity:7422702925556150272/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4))
+* 🎓 [**Closing the Digital Divide:** Program Wrap-up]([https://www.linkedin.com/posts/your-link-3](https://www.linkedin.com/feed/update/urn:li:activity:7421978647101829120/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4))
+
+---
+
+## 🛠 Skills & Expertise
+* **Instructional Design:** AI Pedagogy, Workshop Facilitation.
+* **Technical:** AI Fundamentals, Machine Learning Concepts, Digital Literacy.
+* **Consulting:** Stakeholder Engagement, Program Coordination.
+
+---
+
+## 📫 Get in Touch
+* **LinkedIn:** [www.linkedin.com/in/odak-ian-mwagi](www.linkedin.com/in/odak-ian-mwagi)
+* **GitHub:** [github.com/odak ian mwagi](https://github.com/odakianmwagi)
+* **Email:** [Ianodak01@gmail.com](mailto:Ianodak01@gmail.com)
+
 Below are some of the cybersecurity and networking modules I have completed, highlighting my growing expertise in web security, network analysis, and IT systems.
 ---
 ## 👩🏾‍💻 Project 1: Code Club Activities – Ezra Gumbe Comprehensive School
