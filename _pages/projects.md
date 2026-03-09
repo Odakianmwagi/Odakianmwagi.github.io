@@ -35,9 +35,9 @@ I facilitated the **Experience AI** training program (a collaboration between Go
 ## 🔗 My Journey on LinkedIn
 I've shared insights and updates from my time training in Vihiga and the wider Western Region. You can read more here:
 
-* 🚀 [**Training the Trainers:** Empowering Vihiga's Educators]((https://www.linkedin.com/feed/update/urn:li:activity:7424517251376218112/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4))
-* 💡 [**AI in the Classroom:** Practical Applications & Demos](h[ttps://www.linkedin.com/posts/your-link-2](https://www.linkedin.com/feed/update/urn:li:activity:7422702925556150272/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4))
-* 🎓 [**Closing the Digital Divide:** Program Wrap-up]([https://www.linkedin.com/posts/your-link-3](https://www.linkedin.com/feed/update/urn:li:activity:7421978647101829120/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4))
+* 🚀 [**Training the Trainers:** Empowering Vihiga's Educators](https://www.linkedin.com/feed/update/urn:li:activity:7424517251376218112/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4)
+* 💡 [**AI in the Classroom:** Practical Applications & Demos](https://www.linkedin.com/feed/update/urn:li:activity:7422702925556150272/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4)
+* 🎓 [**Closing the Digital Divide:** Program Wrap-up](https://www.linkedin.com/feed/update/urn:li:activity:7421978647101829120/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsg_eABdBbYOSak7eBDSK89XmkG9rLWnt4)
 
 ---
 
