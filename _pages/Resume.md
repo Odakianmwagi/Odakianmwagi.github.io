@@ -9,7 +9,7 @@ author_profile: true
 **Location:** Kisumu, Kenya  
 **Phone:** +254 792 009 383  
 **Email:** [ianodak01@gmail.com](mailto:ianodak01@gmail.com)  
-**LinkedIn:** [linkedin.com/in/ian-mwagi-514284238](https://linkedin.com/in/ian-mwagi-514284238)
+**LinkedIn:** [linkedin.com/in/ian-mwagi-514284238](www.linkedin.com/in/odak-ian-mwagi)
 
 ---
 
@@ -25,6 +25,43 @@ I am a versatile IT professional with proven success in system administration, c
 - **Project Management:** Planning, coordinating, and executing IT initiatives.  
 - **Data-Driven Decision-Making:** Using analytics tools such as Excel and SPSS to guide improvements.  
 - **Teaching & Mentorship:** Leading coding clubs and training students in beginner-friendly programming tools.
+
+---
+**TECHNICIAN(volunteer), ZATE COMUNICATIONS.**
+TECHNICIAN, ZATE COMUNICATIONS.
+Omninet network services, Kisumu | November 2025 – ongoing.
+•	Installed and configured Wi-Fi and wired network systems for residential and commercial clients, ensuring reliable and high-speed internet connectivity.
+•	Set up and managed hotspot networks, including router configuration, bandwidth management, and user authentication systems.
+•	Diagnosed and resolved network issues such as connectivity failures, slow speeds, IP conflicts, and hardware malfunctions.
+•	Performed device repair and troubleshooting for routers, switches, access points, and client devices to minimize downtime.
+•	Provided on-site technical support and customer guidance on network usage and basic troubleshooting.
+Key Outcomes:
+•	Improved network stability and customer satisfaction through timely troubleshooting and proactive maintenance.
+•	Successfully deployed and maintained multiple hotspot configurations across Kisumu, expanding reliable internet access.
+•	Reduced service downtime by implementing systematic diagnostics and preventive maintenance procedures.
+.
+•	Installed and configured Wi-Fi and wired network systems for residential and commercial clients, ensuring reliable and high-speed internet connectivity.
+•	Set up and managed hotspot networks, including router configuration, bandwidth management, and user authentication systems.
+•	Diagnosed and resolved network issues such as connectivity failures, slow speeds, IP conflicts, and hardware malfunctions.
+•	Performed device repair and troubleshooting for routers, switches, access points, and client devices to minimize downtime.
+•	Provided on-site technical support and customer guidance on network usage and basic troubleshooting.
+Key Outcomes:
+•	Improved network stability and customer satisfaction through timely troubleshooting and proactive maintenance.
+•	Successfully deployed and maintained multiple hotspot configurations across Kisumu, expanding reliable internet access.
+•	Reduced service downtime by implementing systematic diagnostics and preventive maintenance procedures.
+
+---
+**Experience Ai trainer(Consultant), Futures Infinite.**
+**WESTERN REGION, KENYA | December 2025 to February 2026.**
+•	Facilitated Experience AI training programs for teachers  across schools in the Western Region, introducing practical applications of Artificial Intelligence in education.
+•	Delivered structured training sessions on AI fundamentals, responsible AI use, and emerging digital technologies to improve digital literacy among participants.
+•	Guided educators on how to integrate AI tools into classroom learning, supporting innovation in teaching and learning methods.
+•	Provided hands-on demonstrations of AI-powered tools and platforms to help participants understand real-world technology applications.
+•	Supported training coordination, participant engagement, and technical facilitation during regional workshops.
+**Key Outcomes:**
+•	Successfully trained multiple educators and learners on Experience AI concepts and tools, increasing awareness and adoption of AI in schools.
+•	Strengthened digital literacy and emerging technology knowledge among participants in the Western Kenya education ecosystem.
+•	Contributed to the expansion of AI education initiatives aimed at preparing learners for future digital careers.
 
 ---
 
@@ -113,9 +150,9 @@ _Oriwo Boys High School, Homabay County | 2018_
 Leadership and Development Coach, Teach For Kenya  
 📧 [eila@teachforkenya.org](mailto:eila@teachforkenya.org) | 📞 +254 713 213 531  
 
-**2. Joram Wachira Gichathi**  
-Assistant County Commissioner, AOII Nyanza Region  
-📧 [gichathijoram@gmail.com](mailto:gichathijoram@gmail.com) | 📞 +254 705 109 077  
+**2.Stephen Odhiambo Okuta. **  
+Senior Teacher, Ezra Gumbe Comprehensive School.  
+📧 [okutaodhiambo@gmail.com ](mailto:okutaodhiambo@gmail.com ) | 📞 +254 734 270709. 
 
 **3. Seif Ouma Jowi**  
 ICT Authority Manager, Kisumu County  
