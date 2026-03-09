@@ -10,7 +10,7 @@ author_profile: true
 **Location:** Kisumu, Kenya  
 **Phone:** +254 792 009 383  
 **Email:** [ianodak01@gmail.com](mailto:ianodak01@gmail.com)  
-**LinkedIn:** [linkedin.com/in/ian-mwagi-514284238](https://linkedin.com/in/ian-mwagi-514284238)
+**LinkedIn:** [www.linkedin.com/in/odak-ian-mwagi](www.linkedin.com/in/odak-ian-mwagi)
 
 ---
 
@@ -30,6 +30,39 @@ I am a versatile IT professional with proven success in system administration, c
 ---
 
 ## 💼 Professional Experience
+### **Technician, Zate Communications**
+
+Omninet Network Services, Kisumu | November 2025 – Present
+
+- Installed and configured Wi-Fi and wired network systems for residential and commercial clients, ensuring reliable and high-speed internet connectivity.
+- Set up and managed hotspot networks including router configuration, bandwidth management, and user authentication systems.
+- Diagnosed and resolved network issues such as connectivity failures, slow speeds, IP conflicts, and hardware malfunctions.
+- Performed troubleshooting and repair of routers, switches, access points, and other client networking devices.
+- Provided on-site technical support and guided customers on network usage and basic troubleshooting.
+
+**Key Outcomes:**
+
+- Improved network stability and customer satisfaction through timely troubleshooting and proactive maintenance.
+- Successfully deployed and maintained multiple hotspot network systems across Kisumu.
+- Reduced service downtime by implementing structured diagnostics and preventive maintenance procedures.
+
+---
+
+### **Experience AI Trainer (Consultant), Futures Infinite**
+
+Western Region, Kenya | December 2025 – February 2026
+
+- Facilitated Experience AI training programs for teachers across schools in the Western Region.
+- Delivered structured sessions covering AI fundamentals, responsible AI use, and emerging digital technologies.
+- Guided educators on integrating AI tools into classroom teaching and learning.
+- Demonstrated practical AI-powered tools to help participants understand real-world technology applications.
+- Supported training coordination, participant engagement, and technical facilitation during regional workshops.
+
+**Key Outcomes:**
+
+- Successfully trained educators and learners on Experience AI concepts and tools.
+- Strengthened digital literacy and technology awareness in schools across Western Kenya.
+- Contributed to expanding AI education initiatives aimed at preparing learners for future digital careers.
 
 ### **Fellow, Teach For Kenya**  
 _Ezra Gumbe Comprehensive School, Kisumu | January 2024 – Present_  
