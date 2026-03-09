@@ -9,7 +9,7 @@ author_profile: true
 **Location:** Kisumu, Kenya  
 **Phone:** +254 792 009 383  
 **Email:** [ianodak01@gmail.com](mailto:ianodak01@gmail.com)  
-**LinkedIn:** [linkedin.com/in/ian-mwagi-514284238](www.linkedin.com/in/odak-ian-mwagi)
+**LinkedIn:** [www.linkedin.com/in/odak-ian-mwagi](www.linkedin.com/in/odak-ian-mwagi)
 
 ---
 
