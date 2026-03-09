@@ -27,43 +27,39 @@ I am a versatile IT professional with proven success in system administration, c
 - **Teaching & Mentorship:** Leading coding clubs and training students in beginner-friendly programming tools.
 
 ---
-**TECHNICIAN(volunteer), ZATE COMUNICATIONS.**
-TECHNICIAN, ZATE COMUNICATIONS.
-Omninet network services, Kisumu | November 2025 – ongoing.
-•	Installed and configured Wi-Fi and wired network systems for residential and commercial clients, ensuring reliable and high-speed internet connectivity.
-•	Set up and managed hotspot networks, including router configuration, bandwidth management, and user authentication systems.
-•	Diagnosed and resolved network issues such as connectivity failures, slow speeds, IP conflicts, and hardware malfunctions.
-•	Performed device repair and troubleshooting for routers, switches, access points, and client devices to minimize downtime.
-•	Provided on-site technical support and customer guidance on network usage and basic troubleshooting.
-Key Outcomes:
-•	Improved network stability and customer satisfaction through timely troubleshooting and proactive maintenance.
-•	Successfully deployed and maintained multiple hotspot configurations across Kisumu, expanding reliable internet access.
-•	Reduced service downtime by implementing systematic diagnostics and preventive maintenance procedures.
-.
-•	Installed and configured Wi-Fi and wired network systems for residential and commercial clients, ensuring reliable and high-speed internet connectivity.
-•	Set up and managed hotspot networks, including router configuration, bandwidth management, and user authentication systems.
-•	Diagnosed and resolved network issues such as connectivity failures, slow speeds, IP conflicts, and hardware malfunctions.
-•	Performed device repair and troubleshooting for routers, switches, access points, and client devices to minimize downtime.
-•	Provided on-site technical support and customer guidance on network usage and basic troubleshooting.
-Key Outcomes:
-•	Improved network stability and customer satisfaction through timely troubleshooting and proactive maintenance.
-•	Successfully deployed and maintained multiple hotspot configurations across Kisumu, expanding reliable internet access.
-•	Reduced service downtime by implementing systematic diagnostics and preventive maintenance procedures.
+### **Technician, Zate Communications**
 
----
-**Experience Ai trainer(Consultant), Futures Infinite.**
-**WESTERN REGION, KENYA | December 2025 to February 2026.**
--Facilitated Experience AI training programs for teachers  across schools in the Western Region, introducing practical applications of Artificial Intelligence in education.
--Delivered structured training sessions on AI fundamentals, responsible AI use, and emerging digital technologies to improve digital literacy among participants.
--Guided educators on how to integrate AI tools into classroom learning, supporting innovation in teaching and learning methods.
--Provided hands-on demonstrations of AI-powered tools and platforms to help participants understand real-world technology applications.
--Supported training coordination, participant engagement, and technical facilitation during regional workshops.
+Omninet Network Services, Kisumu | November 2025 – Present
+
+- Installed and configured Wi-Fi and wired network systems for residential and commercial clients, ensuring reliable and high-speed internet connectivity.
+- Set up and managed hotspot networks including router configuration, bandwidth management, and user authentication systems.
+- Diagnosed and resolved network issues such as connectivity failures, slow speeds, IP conflicts, and hardware malfunctions.
+- Performed troubleshooting and repair of routers, switches, access points, and other client networking devices.
+- Provided on-site technical support and guided customers on network usage and basic troubleshooting.
 
 **Key Outcomes:**
--Successfully trained multiple educators and learners on Experience AI concepts and tools, increasing awareness and adoption of AI in schools.
--	Strengthened digital literacy and emerging technology knowledge among participants in the Western Kenya education ecosystem.
--Contributed to the expansion of AI education initiatives aimed at preparing learners for future digital careers.
 
+- Improved network stability and customer satisfaction through timely troubleshooting and proactive maintenance.
+- Successfully deployed and maintained multiple hotspot network systems across Kisumu.
+- Reduced service downtime by implementing structured diagnostics and preventive maintenance procedures.
+
+---
+
+### **Experience AI Trainer (Consultant), Futures Infinite**
+
+Western Region, Kenya | December 2025 – February 2026
+
+- Facilitated Experience AI training programs for teachers across schools in the Western Region.
+- Delivered structured sessions covering AI fundamentals, responsible AI use, and emerging digital technologies.
+- Guided educators on integrating AI tools into classroom teaching and learning.
+- Demonstrated practical AI-powered tools to help participants understand real-world technology applications.
+- Supported training coordination, participant engagement, and technical facilitation during regional workshops.
+
+**Key Outcomes:**
+
+- Successfully trained educators and learners on Experience AI concepts and tools.
+- Strengthened digital literacy and technology awareness in schools across Western Kenya.
+- Contributed to expanding AI education initiatives aimed at preparing learners for future digital careers.
 ---
 
 ## 💼 Professional Experience
